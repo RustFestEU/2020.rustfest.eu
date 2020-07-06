@@ -68,7 +68,7 @@ export default function About(props) {
       <h1>About</h1>
       <p>
         RustFest is Europe’s Rust-dedicated conference. The next edition of
-        RustFest will take place as a two-day event in the Netherlands.
+        RustFest will take place as a two-day online event.
       </p>
       <p>
         We care about diversity and accessibility at this conference – please
