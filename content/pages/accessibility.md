@@ -15,7 +15,7 @@ RustFest is an inclusive conference and as such strives to be accessible to ever
 
 * Offering significantly discounted tickets for concession holders.
 * Providing complimentary tickets for assistants of disabled participants.
-* Providing [15 diversity](https://diversitytickets.org/events/257) + [10 Scholarship](https://diversitytickets.org/events/258) tickets specifically through [diversityticket.org](https://diversitytickets.org).
+* Providing diversity & scholarship tickets.
 * Ensuring all our venues are accessible by wheelchair.
 * Live transcription of all talks.
     - Appropriate measures can be taken for the workshop day and the impl days. Please get in touch.
@@ -24,9 +24,6 @@ RustFest is an inclusive conference and as such strives to be accessible to ever
 * Providing quiet spaces for people with sensory issues, or simply in need of a break.
 * Access to non-gendered toilets.
 * Serving a wide range of food and special requests.
-* An all-around help hotline during the time of the conference: +49 231 5896255
-
-We are currently clarifying the situation around guide and service animals with the venue.
 
 If you’re not sure whether the concession rate should apply to you, please do get in touch.
 
