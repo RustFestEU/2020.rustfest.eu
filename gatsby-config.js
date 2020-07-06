@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `RustFest.eu Netherlands`,
-    description: `The 2020 edition in the Netherlands of a Rust Community conference travelling all around Europe.`,
+    title: `RustFest Global 2020`,
+    description: `The 2020 online edition of a Rust Community conference travelling all around Europe.`,
     author: `Rust Nederland`,
-    siteUrl: 'https://netherlands.rustfest.eu',
+    siteUrl: 'https://2020.rustfest.eu',
   },
   mapping: {
     'MarkdownRemark.fields.sessions': `MarkdownRemark`,
@@ -88,7 +88,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `RustFest.eu Netherlands`,
+        name: `RustFest Global`,
         short_name: `RustFest`,
         start_url: `/`,
         background_color: `#0067FB`,

@@ -1,11 +1,11 @@
-![](https://github.com/RustFestEU/netherlands.rustfest.eu/workflows/Build%20and%20Deploy/badge.svg)
+![](https://github.com/RustFestEU/2020.rustfest.eu/workflows/Build%20and%20Deploy/badge.svg)
 
 # Contributing
 
 If you want to add to this website use git to clone it.
 
 ```shell script
-git clone --branch master git@github.com:RustFestEU/netherlands.rustfest.eu.git netherlands.rustfest.eu
+git clone --branch master git@github.com:RustFestEU/2020.rustfest.eu.git 2020.rustfest.eu
 ```
 
 Or to update your local copy

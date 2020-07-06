@@ -1,6 +1,6 @@
 {
-  "name": "rustfesteu-netherlands-2020",
-  "description": "The 2020 edition in the Netherlands of a Rust Community conference travelling all around Europe.",
+  "name": "rustfesteu-global-2020",
+  "description": "The 2020 online edition of a Rust Community conference travelling all around Europe.",
   "private": true,
   "license": "MIT",
   "version": "0.1.0",
@@ -45,9 +45,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/RustFestEU/netherlands.rustfest.eu"
+    "url": "https://github.com/RustFestEU/2020.rustfest.eu"
   },
   "bugs": {
-    "url": "https://github.com/RustFestEU/netherlands.rustfest.eu/issues"
+    "url": "https://github.com/RustFestEU/2020.rustfest.eu/issues"
   }
 }
