@@ -3,6 +3,7 @@
 <url> <loc>https://2020.rustfest.eu/accessibility/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://2020.rustfest.eu/code-of-conduct/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://2020.rustfest.eu/imprint/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://2020.rustfest.eu/info/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://2020.rustfest.eu/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://2020.rustfest.eu/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
