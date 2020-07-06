@@ -5,13 +5,13 @@
 If you want to add to this website use git to clone it.
 
 ```shell script
-git clone --branch master git@github.com:RustFestEU/2020.rustfest.eu.git 2020.rustfest.eu
+git clone --branch main git@github.com:RustFestEU/2020.rustfest.eu.git 2020.rustfest.eu
 ```
 
 Or to update your local copy
 
 ```shell script
-git checkout master
+git checkout main
 git pull
 ```
 
@@ -43,7 +43,7 @@ Optionally you can use the `-m` option to add a description of what you changed.
 yarn deploy -m "Added John Doe as speaker"
 ```
 
-Don't forget to commit and push your changes to the content on the master
+Don't forget to commit and push your changes to the content on the main
 branch so other people can iterate on top of them.
 
 ```shell script
