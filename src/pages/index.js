@@ -68,7 +68,7 @@ const IndexPage = ({ data }) => (
         position={'center 10%'}
         height={'100%'}
       />
-      <SplashTitle>{'RustFest.eu Netherlands'}</SplashTitle>
+      <SplashTitle>{'RustFest Global'}</SplashTitle>
       <City>Online</City> <Date>7th & 8th November 2020</Date>
     </Hero>
     <Container>
