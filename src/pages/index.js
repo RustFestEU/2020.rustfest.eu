@@ -30,6 +30,10 @@ const Hero = styled.div`
   .js & {
     height: 100vh;
   }
+
+  .cfp-link {
+    color: white;
+  }
 `;
 
 // Styling of h2.
@@ -69,7 +73,12 @@ const IndexPage = ({ data }) => (
         height={'100%'}
       />
       <SplashTitle>{'RustFest Global'}</SplashTitle>
-      <City>Online</City> <Date>7th & 8th November 2020</Date>
+      <City>Online</City>
+      <Date>7th & 8th November 2020</Date>
+
+      <h1>
+        <a class="cfp-link" href="https://cfp.rustfest.eu/events/2020">CfP open - Submit now!</a>
+      </h1>
     </Hero>
     <Container>
       <h2>Latest news</h2>
