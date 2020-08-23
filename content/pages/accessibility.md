@@ -11,6 +11,26 @@ Mail: <a href="mailto:team@rustfest.eu">team@rustfest.eu</a>
 
 ---
 
+## Online Events
+
+RustFest is an inclusive conference and as such strives to be accessible to everyone.
+
+* We will be offering significantly discounted tickets for concession holders, students, people who are underrepresented in the Rust / programming community (e.g. BIPoC, LGBTQIA+, disabled people, ...) or who otherwise couldn't afford to attend the conference.
+* We are striving to ensure that our online conference, as well as the workshops, are accessible to (color-)blind and deaf people. Our streaming tools are screen reader and keyboard navigation friendly.
+* We are providing:
+     * closed captioning for the talks
+     * sign language interpreting (upon request)
+     * vocal or spoken language interpreting (upon request)
+* We will be sending out accessibility awareness information to the speakers and workshop holders prior to the conference to help them make their material as accessible as possible.
+* Speakers will have the possibility to submit and hold talks in their native language, accompanied by English subtitles.
+
+If you’re not sure whether the concession rate should apply to you, please do get in touch. Our goal is that the conference and workshops and all other related events are accessible to people with disabilities. However, we are aware that accessibility issues are diverse and we may not have everything covered in our plans - please reach out, and we will do our very best to confirm we have those requirements under control. Send a mail to [team@rustfest.eu](mailto:team@rustfest.eu).
+
+We will happily reserve you a ticket if it’s not immediately clear whether necessary assistance is provided.
+
+
+## Offline events
+
 RustFest is an inclusive conference and as such strives to be accessible to everyone. This includes:
 
 * Offering significantly discounted tickets for concession holders.
