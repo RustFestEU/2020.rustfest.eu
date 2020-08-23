@@ -92,7 +92,7 @@ export default IndexPage;
 
 export const query = graphql`
   query {
-    file(relativePath: { eq: "Noorderlicht_Juri_Hiensch.jpg" }) {
+    file(relativePath: { eq: "rustfest-bcn-family.jpg" }) {
       childImageSharp {
         fluid(maxWidth: 2000, maxHeight: 1333) {
           ...GatsbyImageSharpFluid
