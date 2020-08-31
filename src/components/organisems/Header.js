@@ -31,6 +31,7 @@ const Header = ({ siteTitle, titleAs = 'div', ...rest }) => {
     <Menu logo={TitleAndLogo} {...rest}>
       <MenuLink to="/info">Policies</MenuLink>
       <MenuLink to="/about">About</MenuLink>
+      <MenuLink to="/sponsorships">Sponsorships</MenuLink>
     </Menu>
   );
 };
