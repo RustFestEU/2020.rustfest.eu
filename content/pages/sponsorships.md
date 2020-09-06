@@ -11,7 +11,7 @@ A fundamental part of RustFest has always been sponsorships, as RustFest strives
 
 RustFest is also a great way for community members to get to know each other and for our sponsors to get a chance to meet potential employees without the need for hiring expensive headhunters.
 
-For this event we are collaborating with multiple teams across the globe (such as [Rust.Tokyo](https://rust.tokyo) or [Rust LATAM](https://www.rustlatam.org/), who will be helping with making the conference more accessible in different regional communities, as well as will be hosting one of the three conference blocks that corresponding to their respective timezones and geography. Hence the event will better be able to cater to audiences in America, Europe and Asia. Each block will include 4 to 8 talks. On Sunday the 8th of November we are also hosting a hands-on collaborative development event (called the "impl Days") where attendees choose to work on projects that interest them (be those personal projects or core Rust issues) while having an opportunity to continue networking and getting to know other Rust project contributors and attendees.
+For this event we are collaborating with multiple teams across the globe (such as [Rust.Tokyo](https://rust.tokyo) or [Rust LATAM](https://www.rustlatam.org/), who will help with making the conference more accessible in different regional communities, as well as host one of the three conference blocks that corresponds to their respective timezones and geography. Hence the event will better be able to cater to audiences in America, Europe and Asia. Each block will include 4 to 8 talks. On Sunday the 8th of November we are also hosting a hands-on collaborative development event (called the "impl Days") where attendees choose to work on projects that interest them (be those personal projects or core Rust issues) while having an opportunity to continue networking and getting to know other Rust project contributors and attendees.
 
 <h2>Baseline package</h2>
 
@@ -41,7 +41,7 @@ We are always willing to discuss more elaborate sponsorships as well. To inspire
 
 * <b>In-break content</b>
 
-    During breaks we can include sponsor ads that target our attendees. We are also considering including customized in-break entertainment (such as generative art and music from community artists) in-between the talks, which could also be tailored to fit the sponsor brand, use a special color scheme or include further customizations (including a direct collaboration between you and the artist to realize an even more elaborate vision).
+    During breaks we can include sponsor ads that target our attendees. We are also considering including customized in-break entertainment (such as generative art and music from community artists) in-between the talks, which could also be tailored to fit the sponsor brand, using a special color scheme or including further customizations (including a direct collaboration between you and the artist to realize an even more elaborate vision).
 
 * <b>Playback content</b>
 
