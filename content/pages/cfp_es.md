@@ -15,8 +15,8 @@ Nosotros somos tu conferencia!
 
 ## Temas para RustFest
 
-RustFest es un evento Rust.
-Buscamos temas relacionados a Rust o temas que les interesaria a los rustáceos (personas involucradas con Rust).
+RustFest es un evento sobre el lenguaje de programación Rust.
+Buscamos temas relacionados a Rust o temas que les interesaria a rustáceos (personas involucradas con Rust).
 La comunidad de Rust es muy curiosa, por lo que charlas sobre desarrollos nuevos interesantes en el mundo de la programación son bienvenidas.
 Temas que abarcan los aspectos sociales de la programación también son recibidos con mucho interés.
 
@@ -43,20 +43,20 @@ Somos tu conferencia, independientemente de si es tu primera vez en un escenario
 Si no estas seguro(a), contactanos:
 
     Nos encantaría pelotear ideas sobre tus interes para ver si encontramos un tema interesante escondido.
-    Te podemos poner en contacto con mentores para ayudar a preparar tu presentación, o podes ver la sección Presentacion de Ejemplo mas abajo para ver consejos.
+    Te podemos poner en contacto con mentores para ayudar a preparar tu presentación, o puedes ver la sección Presentacion de Ejemplo mas abajo para ver consejos.
     Podemos revisar y aconsejarte sobre como lograr diapositivas geniales.
-    Si necesitas práctica dando la presentacion, podes ponerte en contacto y te contactamos con grupos locales y/o armarte con anticipación un escenario virtual con amigos y amigas donde podes practicar en frente a un publico amistoso.
+    Si necesitas práctica dando la presentacion, puedes ponerte en contacto y te contactamos con grupos locales y/o armarte con anticipación un escenario virtual con amigos y amigas donde puedes practicar en frente a un publico amistoso.
     Cualquier otra cosa que puedas necesitas, estamos aqui para ayudar. Contactanos: speakers@rustfest.eu (pero NO uses ese mail para enviar la propuesta).
 
 Si necesitas mas aliento, mira este sitio de Tiffany Conroy, [We Are All Awesome](http://weareallaweso.me/) que trata de convencerte de hablar.
-Por guias sobre los aspectos practicos, ver [speaking.io](http://speaking.io/) por Zach Holman.
+Para guias sobre los aspectos practicos, ver [speaking.io](http://speaking.io/) por Zach Holman.
 
 ## Facilidad de Accesso
 
 A las RustFest les importa mucho la facilidad de acceso.
 Especialmente para una conferencia virtual, la facilidad de acceso es clave.
 Queremos apoyar tu presentación, proveyendo subtitulos.
-A la hora de crear las diapositivas, te proveemos información sobre sobre lograr que tu material sea lo mas accesible posible.
+A la hora de crear las diapositivas, te proveemos información sobre lograr que tu material sea lo mas accesible posible.
 Por favor lee nuestras [Guias sobre Accesibilidad](https://2020.rustfest.eu/accessibility/) y [Codigo de Conducta](https://2020.rustfest.eu/code-of-conduct).
 
 ## El Proceso de Selección
@@ -93,7 +93,7 @@ Estas cosas definitivamente juegan en contra de tu propuesta.
 
 Tampoco te sobrepases.
 Si necesitas mas de dos parrafos para llegar al objetivo de tu tema, te vamos a pedir que lo acortes.
-Con la cantidad de propuestas que recibimos, cuanto mas rapido podes causar una buena impresion, mejor.
+Con la cantidad de propuestas que recibimos, cuanto mas rapido puedas causar una buena impresion, mejor.
 
 "Hubiese escrito una carta mas corta, pero no tuve tiempo" - Blas Pascal.
 
@@ -151,5 +151,5 @@ Ademas de ser transmitidas en vivo, todas las charlas seran grabadas, transcrita
 Hacemos esto para el beneficio de la comunidad Rust en general, y para aquellos que no pueden asistir a la conferencia.
 Esperamos que puedas ayudar, pero si algo te incomoda de alguna manera, dejanos saber y vemos como resolverlo.
 
-Finalmente, dado que retenemos la autoria plena de tus diapositivas y grabacion, nos gustaria pedirte que hagas disponible tus materiales y grabacion bajo una licencia creative commons, o cualquier otra licencia de codigo abierto.
+Finalmente, dado que retienes la autoria plena de tus diapositivas y grabacion, nos gustaria pedirte que hagas disponible tus materiales y grabacion bajo una licencia creative commons, o cualquier otra licencia de codigo abierto.
 
