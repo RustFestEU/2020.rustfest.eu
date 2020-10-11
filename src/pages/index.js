@@ -77,7 +77,7 @@ const IndexPage = ({ data }) => (
       <Date>7th & 8th November 2020</Date>
 
       <h1>
-        <a class="cfp-link" href="https://cfp.rustfest.eu/events/2020">CfP open - Submit now!</a>
+        CfP closed - Tickets soon!
       </h1>
     </Hero>
     <Container>
